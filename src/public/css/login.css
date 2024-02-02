@@ -1,0 +1,75 @@
+.login__content {
+    background-color: #EFEFEF;
+    padding-top: 50px;
+}
+
+.login__content p {
+    text-align: center;
+}
+
+.login__title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.login__email {
+    text-align: center;
+}
+
+.login__email input {
+    width: 400px;
+    height: 40px;
+    background-color: #EFEFEF;
+    border-radius: 3px;
+    border-color: #818181;
+    color: #878787;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.login__password {
+    text-align: center;
+}
+
+.login__password input {
+    width: 400px;
+    height: 40px;
+    background-color: #EFEFEF;
+    border-radius: 3px;
+    border-color: #818181;
+    color: #878787;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.login__form__submit {
+    text-align: center;
+}
+
+.login__form__submit input {
+    width: 400px;
+    height: 40px;
+    background-color: #192FD9;
+    border-radius: 3px;
+    border-color: #192FD9;
+    color: white;
+    margin-top: 20px;
+    padding-left: 0 auto;
+    cursor: pointer;
+}
+
+.login__support {
+    text-align: center;
+    padding-bottom: 215px;
+}
+
+.login__support__p {
+    color: #878787;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.login__support__a {
+    color: #192FD9;
+    text-decoration: none;
+}

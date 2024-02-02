@@ -1,0 +1,49 @@
+.header__nav__ul {
+    display: flex;
+    list-style: none;
+}
+
+.header__nav__li {
+    margin-left: 60px;
+}
+
+.header__nav__li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.logout__btn {
+    border: none;
+    background-color: white;
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.users__content {
+    background-color: #EFEFEF;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.users__table {
+    margin: 0 auto;
+}
+
+.users__table__title {
+    border-top: 1px solid #818181;
+}
+
+.users__table__title th {
+    border-top: 1px solid #818181;
+    padding: 20px 80px 20px 80px;
+}
+
+.users__table__data td {
+    border-top: 1px solid #818181;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

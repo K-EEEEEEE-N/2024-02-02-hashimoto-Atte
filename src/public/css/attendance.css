@@ -1,0 +1,90 @@
+.header__nav__ul {
+    display: flex;
+    list-style: none;
+}
+
+.header__nav__li {
+    margin-left: 60px;
+}
+
+.header__nav__li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.logout__btn {
+    border: none;
+    background-color: white;
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.attendance__content {
+    background-color: #EFEFEF;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.date-navigation {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.date-navigation a {
+    font-size: 25px;
+    color: #192FD9;
+    text-decoration: none;
+    border: 1px solid #192FD9;
+    background-color: white;
+    padding: 3px 10px 5px 10px;
+    margin: 0 30px;
+}
+
+.date-navigation span {
+    font-size: 20px;
+}
+
+.attendance__table {
+    margin: 0 auto;
+}
+
+.attendance__table__title th {
+    border-top: 1px solid #818181;
+    padding: 20px 80px 20px 80px;
+}
+
+.attendance__table__data td {
+    border-top: 1px solid #818181;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.page-link {
+    background-color: white;
+    color: #1E6EC4;
+    border: none;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding: 10px;
+}
+
+.page-link__active {
+    background-color: #1E6EC4;
+    color: white;
+    border: none;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding: 10px;
+}
